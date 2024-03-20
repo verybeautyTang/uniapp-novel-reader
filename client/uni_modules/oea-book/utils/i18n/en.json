@@ -1,0 +1,14 @@
+{
+  
+  "oea-book-menu.title": "title",
+  "oea-book-menu.font_size": "font size",
+  "oea-book-menu.line_height": "line height",
+  "oea-book-menu.background": "background",
+  
+  
+	"oea-book-menu.list_btn_text": "list",
+	"oea-book-menu.night_btn_text": "night",
+	"oea-book-menu.day_btn_text": "day",
+	"oea-book-menu.eye_btn_text": "eye",
+  "oea-book-menu.more_btn_text": "more"
+}

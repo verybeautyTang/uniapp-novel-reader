@@ -1,0 +1,12 @@
+{
+	"oea-book-menu.title": "主题",
+	"oea-book-menu.font_size": "字体",
+	"oea-book-menu.line_height": "间距",
+	"oea-book-menu.background": "背景",
+	
+	"oea-book-menu.list_btn_text": "目录",
+	"oea-book-menu.night_btn_text": "夜间",
+	"oea-book-menu.day_btn_text": "白天",
+	"oea-book-menu.eye_btn_text": "护眼",
+	"oea-book-menu.more_btn_text": "更多"
+}

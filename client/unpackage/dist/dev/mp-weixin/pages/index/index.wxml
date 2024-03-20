@@ -1,0 +1,1 @@
+<view class="content data-v-1cf27b2a"><image class="logo data-v-1cf27b2a" src="/static/logo.png"></image><view class="text-area data-v-1cf27b2a"><text class="title data-v-1cf27b2a">{{a}}</text></view><view class="data-v-1cf27b2a" bindtap="{{b}}">从微信导入</view><view class="data-v-1cf27b2a" bindtap="{{c}}">从手机导入</view><image wx:if="{{d}}" class="data-v-1cf27b2a" src="{{e}}"/></view>
