@@ -1,0 +1,13 @@
+{
+  "hash": "356cca36",
+  "browserHash": "ce971e85",
+  "optimized": {
+    "@vue/composition-api": {
+      "src": "../../node_modules/.pnpm/@vue+composition-api@1.7.2_vue@2.6.14/node_modules/@vue/composition-api/dist/vue-composition-api.mjs",
+      "file": "@vue_composition-api.js",
+      "fileHash": "8d15ecb3",
+      "needsInterop": false
+    }
+  },
+  "chunks": {}
+}

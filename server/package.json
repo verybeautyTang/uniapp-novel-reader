@@ -1,18 +1,18 @@
 {
-  "name": "server",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "name": "nodedemo",
+  "version": "0.0.0",
+  "private": true,
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-	"dev": "egg-bin dev"
+    "start": "node ./bin/www"
   },
-  "author": "",
-  "license": "ISC",
   "dependencies": {
-    "egg": "^3.20.0"
-  },
-  "devDependencies": {
-    "egg-bin": "^6.8.1"
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "express": "~4.16.1",
+    "http-errors": "~1.6.3",
+    "jade": "~1.11.0",
+    "mammoth": "^1.7.1",
+    "morgan": "~1.9.1",
+    "pdfjs-dist": "^4.0.379"
   }
 }

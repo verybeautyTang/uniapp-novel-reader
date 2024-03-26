@@ -5,18 +5,15 @@ if (!Math) {
   "./pages/index/index.js";
   "./pages/read/index.js";
 }
-const _sfc_main = {
-  onLaunch: function() {
-    console.log("App Launch");
-  },
-  onShow: function() {
-    console.log("App Show");
-  },
-  onHide: function() {
-    console.log("App Hide");
+const _sfc_main = /* @__PURE__ */ common_vendor.defineComponent({
+  __name: "App",
+  setup(__props) {
+    return (_ctx, _cache) => {
+      return {};
+    };
   }
-};
-const App = /* @__PURE__ */ common_vendor._export_sfc(_sfc_main, [["__file", "E:/uniapp-novel-reader/client/App.vue"]]);
+});
+const App = /* @__PURE__ */ common_vendor._export_sfc(_sfc_main, [["__file", "/Users/happyelements/study/uniapp-novel-reader/client/App.vue"]]);
 function createApp() {
   const app = common_vendor.createSSRApp(App);
   return {

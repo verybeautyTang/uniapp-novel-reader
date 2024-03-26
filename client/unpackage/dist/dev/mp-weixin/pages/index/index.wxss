@@ -15,6 +15,7 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  flex: 1;
 }
 .logo.data-v-1cf27b2a {
   height: 200rpx;
@@ -31,4 +32,26 @@
 .title.data-v-1cf27b2a {
   font-size: 36rpx;
   color: #8f8f94;
+}
+.container-footer.data-v-1cf27b2a {
+  display: flex;
+  align-items: center;
+  position: absolute;
+  bottom: 0px;
+  border-top: 1px solid #9f9f9f;
+  width: 100%;
+  padding: 0 10px;
+}
+.container-footer .container-footer-left.data-v-1cf27b2a {
+  color: #000000;
+  text-align: center;
+  padding: 10px 0;
+  border-right: 1px solid #9f9f9f;
+  flex: 0.5;
+}
+.container-footer .container-footer-right.data-v-1cf27b2a {
+  color: #000000;
+  text-align: center;
+  padding: 10px 0;
+  flex: 0.5;
 }

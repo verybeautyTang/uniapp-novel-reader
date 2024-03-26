@@ -1,0 +1,8 @@
+{
+	"dependencies": {
+		"@vue/composition-api": "^1.7.2",
+		"path2d-polyfill": "^3.0.1",
+		"towxml": "^3.0.6",
+		"vue": "^3.4.21"
+	}
+}

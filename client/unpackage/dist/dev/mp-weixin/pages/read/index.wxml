@@ -1,1 +1,1 @@
-<view> 记得发噶等级很高 </view>
+<view><web-view wx:if="{{a}}" src="{{b}}"/></view>
